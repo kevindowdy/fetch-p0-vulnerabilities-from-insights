@@ -1,0 +1,8 @@
+.local/
+.storage/
+.screenshots/
+.settings/
+~*.json
+.idea/
+.tmh/
+.objects/
