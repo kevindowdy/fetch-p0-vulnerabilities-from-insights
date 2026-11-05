@@ -7,10 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-04
+
 ### Changed
 
-- `applog.configure` log path now follows the standard
-  `C:\Users\{USERNAME}\Documents\Temporary\FIG_App_Logs\app_YYYYMMDD.log` pattern.
+- `applog.configure` log path now follows the standard pattern.
 - `requirements.txt` now also lists `playwright`.
 
 ### Removed
